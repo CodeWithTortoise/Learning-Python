@@ -1,2 +1,1 @@
-# Learning-Python
-Im learning smth
+Hello Im Readme
