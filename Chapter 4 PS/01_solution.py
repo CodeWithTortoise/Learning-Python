@@ -6,6 +6,15 @@ e = input("Enter fifth fruit:")
 f = input("Enter sixth fruit:")
 g = input("Enter seventh fruit:")
 
-o = [a, b, c, d, e, f, g]
+o = []
+o.append(a)
+o.append(b)
+o.append(c)
+o.append(d)
+o.append(e)
+o.append(f)
+o.append(g)
+
+
 print(o)
 

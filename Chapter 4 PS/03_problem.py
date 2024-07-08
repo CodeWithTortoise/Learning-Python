@@ -1,6 +1,7 @@
-a = "Perry"
-print(type(a))
-b = float(a)
+a = ("Perry", "Best", "Developer")
 
 
-print(b)
+
+
+a[1] = "harry"
+print(a)
